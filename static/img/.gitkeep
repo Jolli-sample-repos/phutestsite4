@@ -1,0 +1,4 @@
+# Static Assets
+
+Place your static files (images, PDFs, etc.) in this directory.
+They will be copied to the root of the build output.
